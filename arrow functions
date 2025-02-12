@@ -1,0 +1,7 @@
+const greet = (name) => `hello,${name}`;
+console.log(greet("uday"));
+
+
+
+const mul=x=>x*x;
+console.log(mul(5))
